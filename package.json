@@ -34,6 +34,7 @@
     "rimraf": "^2.6.2"
   },
   "dependencies": {
-    "touch": "^3.1.0"
+    "touch": "^3.1.0",
+    "touch-cli": "0.0.1"
   }
 }
